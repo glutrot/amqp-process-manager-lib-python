@@ -3,7 +3,7 @@
 """Module for communicating with AMQP Process Manager.
    See class AMQPProcessManagerIPC for details."""
 
-__version__ = '1.0'
+__version__ = '0.1'
 __copyright__ = 'Copyright 2015, glutrot GmbH'
 __maintainer__ = 'Daniel Neugebauer'
 __email__ = 'dneuge@glutrot.de'
